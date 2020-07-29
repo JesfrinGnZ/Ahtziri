@@ -1,0 +1,109 @@
+#cir{width:800px; height:225px;background-image:url(colores/resistencia.png);margin: 0px auto; padding:10px;}
+#am1{width:30px; height:175px;background-color:yellow;margin-left:270px;padding-top: 43px;display:inline; float:left;border: 1px solid #000033;}
+#az1{width:30px; height:175px;background-color:blue;margin-left:270px;padding-top: 43px;display:inline; float:left;border: 1px solid #000033;}
+#bla1{width:30px; height:175px;background-color:white;margin-left:270px;padding-top: 43px;display:inline; float:left;border: 1px solid #000033;}
+#gri1{width:30px; height:175px;background-color:gray;margin-left:270px;padding-top: 43px;display:inline; float:left;border: 1px solid #000033;}
+#ma1{width:30px; height:175px;background-color:brown;margin-left:270px;padding-top: 43px;display:inline; float:left;border: 1px solid #000033;}
+#na1{width:30px; height:175px;background-color:orange;margin-left:270px;padding-top: 43px;display:inline; float:left;border: 1px solid #000033;}
+#ne1{width:30px; height:175px;background-color:black;margin-left:270px;padding-top: 43px;display:inline; float:left;border: 1px solid #000033;}
+#ro1{width:30px; height:175px;background-color:red;margin-left:270px;padding-top: 43px;display:inline; float:left;border: 1px solid #000033;}
+#ve1{width:30px; height:175px;background-color:green;margin-left:270px;padding-top: 43px;display:inline; float:left;border: 1px solid #000033;}
+#vi1{width:30px; height:175px;background-color:violet;margin-left:270px;padding-top: 43px;display:inline; float:left;border: 1px solid #000033;}
+
+#am2{width:30px; height:175px;background-color:yellow;margin-left:50px;padding-top: 43px;display:inline; float:left;border: 1px solid #000033;}
+#az2{width:30px; height:175px;background-color:blue;margin-left:50px;padding-top: 43px;display:inline; float:left;border: 1px solid #000033;}
+#bla2{width:30px; height:175px;background-color:white;margin-left:50px;padding-top: 43px;display:inline; float:left;border: 1px solid #000033;}
+#gri2{width:30px; height:175px;background-color:gray;margin-left:50px;padding-top: 43px;display:inline; float:left;border: 1px solid #000033;}
+#ma2{width:30px; height:175px;background-color:brown;margin-left:50px;padding-top: 43px;display:inline; float:left;border: 1px solid #000033;}
+#na2{width:30px; height:175px;background-color:orange;margin-left:50px;padding-top: 43px;display:inline; float:left;border: 1px solid #000033;}
+#ne2{width:30px; height:175px;background-color:black;margin-left:50px;padding-top: 43px;display:inline; float:left;border: 1px solid #000033;}
+#ro2{width:30px; height:175px;background-color:red;margin-left:50px;padding-top: 43px;display:inline; float:left;border: 1px solid #000033;}
+#ve2{width:30px; height:175px;background-color:green;margin-left:50px;padding-top: 43px;display:inline; float:left;border: 1px solid #000033;}
+#vi2{width:30px; height:175px;background-color:violet;margin-left:50px;padding-top: 43px;display:inline; float:left;border: 1px solid #000033;}
+
+#am3{width:30px; height:175px;background-color:yellow;margin-left:50px;padding-top: 43px;display:inline; float:left;border: 1px solid #000033;}
+#az3{width:30px; height:175px;background-color:blue;margin-left:50px;padding-top: 43px;display:inline; float:left;border: 1px solid #000033;}
+#bla3{width:30px; height:175px;background-color:white;margin-left:50px;padding-top: 43px;display:inline; float:left;border: 1px solid #000033;}
+#gri3{width:30px; height:175px;background-color:gray;margin-left:50px;padding-top: 43px;display:inline; float:left;border: 1px solid #000033;}
+#ma3{width:30px; height:175px;background-color:brown;margin-left:50px;padding-top: 43px;display:inline; float:left;border: 1px solid #000033;}
+#na3{width:30px; height:175px;background-color:orange;margin-left:50px;padding-top: 43px;display:inline; float:left;border: 1px solid #000033;}
+#ne3{width:30px; height:175px;background-color:black;margin-left:50px;padding-top: 43px;display:inline; float:left;border: 1px solid #000033;}
+#ro3{width:30px; height:175px;background-color:red;margin-left:50px;padding-top: 43px;display:inline; float:left;border: 1px solid #000033;}
+#ve3{width:30px; height:175px;background-color:green;margin-left:50px;padding-top: 43px;display:inline; float:left;border: 1px solid #000033;}
+#vi3{width:30px; height:175px;background-color:violet;margin-left:50px;padding-top: 43px;display:inline; float:left;border: 1px solid #000033;}
+
+#do{width:30px; height:175px;background-image:url(colores/dorado.jpg);margin-left:50px;padding-top: 43px;display:inline; float:left;border: 1px solid #000033;}
+#pla{width:30px; height:175px;background-image:url(colores/plateado.jpg);margin-left:50px;padding-top: 43px;display:inline; float:left;border: 1px solid #000033;}
+
+#boton
+    { /* clase general */
+  border: 1px solid #dedede;
+  border-radius: 3px;
+  color: white;
+  display: inline-block;
+  font: bold 12px/12px HelveticaNeue, Arial;
+  padding: 15px 12px;
+  text-decoration: none;
+  background-color: #0066FF;
+  width: 150px;
+  height: 50px;
+  text-align: center;
+  	font-size: 20px;
+    cursor:pointer;
+}
+#boton:hover{
+  background-color: red;
+}
+#boton2
+    { /* clase general */
+  border: 1px solid #dedede;
+  border-radius: 3px;
+  color: white;
+  display: inline-block;
+  font: bold 12px/12px HelveticaNeue, Arial;
+  padding: 15px 12px;
+  text-decoration: none;
+  background-color: #0066FF;
+  width: 300px;
+  height: 30px;
+  text-align: center;
+    font-size: 20px;
+    cursor:pointer;
+    margin: 0px auto;
+}
+#boton2:hover{
+  background-color: red;
+}
+select{
+	text-align: center;
+	width: 150px;
+	height: 50px;
+padding: 5px;
+font-size: 20px;
+border: 1px solid green;
+font: bold 20px/20px HelveticaNeue, Arial;
+background-color:#ddd;
+   cursor:pointer;
+   border-radius: 3px;
+   display: inline-block;
+}
+select:hover{
+	background-color: #f1e23c;
+}
+h1{text-align: center;color: white; text-shadow: 0 0 20px #fefcc9, 2px -2px 3px #feec85, -4px -4px 5px #ffae34, 5px -10px 6px #ec760c, -5px -12px 8px #cd4606, 0 -15px 20px #973716, 2px -15px 20px #451b0e;
+   color: #666;}
+h2{text-align: center;color: #0a073c; text-shadow: -1px 0 #090, 1px 0 #090, 0 1px #090, 0 -1px #090;font-size: 30px;}
+body{background: url(colores/fondo.jpg);}
+section {width:870px; height:496px;margin:0px auto;
+      background: rgba(192,192,192,0.55); 
+  border-radius: 0.5em;
+  -webkit-border-radius:0.5em;
+  box-shadow: rgba(0,0,0,0.6) 0px 5px 10px;
+  color: white;
+  margin: 1em auto;
+  padding: 1em;
+  cursor:pointer;
+}
+
+
+

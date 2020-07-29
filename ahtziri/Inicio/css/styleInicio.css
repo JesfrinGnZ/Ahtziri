@@ -1,0 +1,23 @@
+/*Styles para Pagina de Inicio */
+body header {background: #FFC107}
+body header h1 {margin-left:20%; margin-top: 3%; color:white; letter-spacing:14px; font-family: Alex Brush Normal;}
+body header b {color:black;}
+body header h4{color:white;}
+body header h4:hover{color:#f1c40f;}
+body header h5{color:white;}
+body header h5:hover{color:#f1c40f;}
+body header .logo{width:80px; height:70px;}
+body .links {margin-top:5%;}
+body .mision {background: #f1c40f; border-radius: 10px;}
+body .vision {background: #3498db; border-radius: 10px;}
+body .valores{background: #e74c3c; border-radius: 10px;}
+body .sesion{margin-left: 48%; padding-bottom: 3%}
+body h3{margin-left:30%;}
+body a {font-family:Hobo Std;}
+body p{color:white;}
+body ul{color:white;}
+body footer {background: #FFC107}
+
+/*Styles para Pagina de Camaras */
+body .camaras{margin-top:15%;}
+body .footercamara{margin-top:17.2%;}
